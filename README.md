@@ -29,4 +29,4 @@ combines *software* & *hardware*. If you're working on a project related to *Emb
 
 ## ⚡ **Fun Fact:**
 I have strong interest in both *software* and *hardware*, which is why my studies in Infotronic
-Systems Engineering excite me.
+Systems Engineering excite me. You'll find me experimenting with the bridge that is between our physical and digital world! 

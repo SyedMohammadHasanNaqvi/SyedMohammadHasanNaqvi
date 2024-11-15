@@ -20,7 +20,7 @@ I'm also exploring areas like *Machine Learning*, *Artificial Intelligence* & *D
 
 ## 💞️ **Looking to Collaborate On**
 I'm excited to collaborate on open-source Data Science projects, AI initiatives or anything that
-combines *software* & *hardware*. If you're working on a project related to *Embedded Systems*, *Ambient Systems*
+combines *software* & *hardware*. If you're working on a project related to *Embedded Systems*, *Ambient Systems*,
 *Data Analytics* or *Telecommunication Technologies*, feel free to reach me out!
 
 ## 📫 **How to Reach Me**

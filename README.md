@@ -25,7 +25,7 @@ combines *software* & *hardware*. If you're working on a project related to *Emb
 
 ## 📫 **How to Reach Me**
 - **Email:** syedmohammad.15764@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/syed-mohammad-hasan-naqvi-5b152a261
+- **LinkedIn:** https://www.linkedin.com/in/syedmohammadhasannaqvi
 
 ## ⚡ **Fun Fact:**
 I have strong interest in both *software* and *hardware*, which is why my studies in Infotronic
